@@ -33,3 +33,4 @@ it runs when it is been called and it could be the first code but the last actio
 "function homeButtonClick(onclick){
 alert("this is a fnction")
 }"
+
