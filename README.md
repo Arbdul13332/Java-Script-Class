@@ -30,7 +30,26 @@ constants are declared using the "const" keywords, eg const circle = 360
 functions are reffered to as code on demand because the code doesnt get to run immediately, 
 it runs when it is been called and it could be the first code but the last action on the app.
  it is defined with 
+ FOR DECLARATION:
 "function homeButtonClick(onclick){
-alert("this is a fnction")
+alert("this is a fnction");
 }"
+FOR CALLING A FUNCTION:
+functionName(parameters);
+
+# CODE STYLE AND SYNTAX
+this section educates on writting a code that would be easy to 
+read by someone else,by the appropriate use of whitespaces 
+eg:
+WITHOUT WHITESPACE:
+function anExample(noWhiteSpace){ alert("didnt make use of whitespace")} 
+
+WITH WHITESPACE:
+function aExample(with whitespace) {
+alert("made use of whitespace")
+}
+SYNTAX
+when you make a mistake or forgot to add an component or a step
+while coding 
+
 
