@@ -52,4 +52,11 @@ SYNTAX
 when you make a mistake or forgot to add an component or a step
 while coding 
 
+RETURN KEYWORD: used to return a value and no action can be taken after
+the return keyword has been declared
+
+parsing of a string to a number uisng the parseInt/ parseFloat keyword 
+better still '+ +' can be used instead
+
+
 
